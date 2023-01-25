@@ -1,4 +1,4 @@
- 
+ here's the link to the gaem: https://arcade.makecode.com/S11931-02702-61469-34312 (its in browser game)
 
 
 > Open this page at [https://mateusz763tl.github.io/eat-the-escaping-pizza-code/](https://mateusz763tl.github.io/eat-the-escaping-pizza-code/)
