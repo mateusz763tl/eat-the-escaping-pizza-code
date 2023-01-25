@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAB3d3d3d3d3d3d3d3d3d3d3d3d3d3dEd3d3VVVVdUd0d3dVVVV1d3R3d1VVVXV3R3d3VVVVdXdHd3dVVVV1d3d0d3d3d3d3d3R3VVVVdXd3dHdVVVV1d3d0d1VVVXV3R3R3VVVVdXdHd3dVVVV1d0R3d3d3d3d3dHd3d3d3d3d3dw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAC7RAAAAAAAu11NAAAAALsjU00AAAC7XSJSTQAAu11XI10EALA9MlVV1QS7SyUiVVfVBEu7NTJVVUUAS7RVVSNTTQBLtFRXIlJNALBES1UjU00AAEvkVFXVBAAAsETuVd0EAAAAS+Te7QAAAACw5O5OAAAAAADu7gQAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pizza"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
